@@ -88,3 +88,48 @@ Websites like godaddy.com allow the public to purchase Domain names as long as t
 3." **TLD**" - The very last section of an internet domain name, located after the last dot, to help form a fully qualified domain name.
 (In our example **.com**)
 
+#HTTP & HTTPS
+
+In short, both of these are protocols using which the information of a particular website is exchanged between Web Server and Web Browser. But what’s difference between these two?
+
+In the beginning, network administrators had to figure out how to share the information they put out on the Internet.
+They agreed on a procedure for exchanging information and called it HyperText Transfer Protocol (HTTP).
+HTTP is a protocol using which hypertext is transferred over the Web. HTTP has different methods such as request method, GET (requests data from a specified resource)and POST (submits data to be processed to a specified resource). Due to its simplicity, http has been the most widely used protocol for data transfer over the Web but the data (i.e. hypertext) exchanged using http isn’t 
+as secure as we would like it to be. In fact, hyper-text exchanged using http goes as plain text i.e. anyone between the browser and server can read it relatively easy if one intercepts this exchange of data.
+
+This is when HTTPS comes in play, HTTPS adds a layer of security on the data in transit through a secure socket layer (SSL) or transport layer security (TLS) protocol connection. Basically, the computers agree on a "code" between them, 
+and then they scramble the messages using that "code" so that no one in between can read them. 
+This keeps your information safe from hackers.
+
+<img src="https://seopressor.com/wp-content/uploads/2017/07/Difference-Between-HTTP-and-HTTPS.png">
+
+
+Another syntactic difference between http and htpps is that http uses default port 80 while https uses default port 443. 
+
+Previously we mentioned SSL which is another difference between HTTP AND HTTPS AS HTTPS requires SSL certificates. 
+SSL (Secure Sockets Layer) is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and integral. SSL is an industry standard and is used by millions of websites in the protection of their online transactions with their customers.
+To be able to create an SSL connection a web server requires an SSL Certificate. When you choose to activate SSL on your web server you will be prompted to complete a number of questions about the identity of your website and your company.
+
+Here is a link to a video on more about HTTP,HTTPS & SSL: 
+https://youtu.be/hExRDVZHhig
+
+
+
+#REST and Roy Fielding's dissertation
+<img src="https://cdn-images-1.medium.com/max/1200/0*GN2n0rtrVwEN5XlM">
+
+ In the simplest term, REST considered to be a set of principles that assign how HTTP and URLs Web standards are used. The main idea is that if you comply REST principles while developing your application you will have a system that uses the Web’s architecture to your benefit.
+ 
+ Guiding Principles of REST
+ 
+1. Client–server – By separating the user interface concerns from the data storage concerns, we improve the portability of the user interface across multiple platforms and improve scalability by simplifying the server components.
+
+2. Stateless – Each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. Session state is therefore kept entirely on the client.
+
+3. Cacheable – Cache constraints require that the data within a response to a request be implicitly or explicitly labeled as cacheable or non-cacheable. If a response is cacheable, then a client cache is given the right to reuse that response data for later, equivalent requests.
+
+4. Uniform interface – By applying the software engineering principle of generality to the component interface, the overall system architecture is simplified and the visibility of interactions is improved. In order to obtain a uniform interface, multiple architectural constraints are needed to guide the behavior of components. REST is defined by four interface constraints: identification of resources; manipulation of resources through representations; self-descriptive messages; and, hypermedia as the engine of application state.
+
+5. Layered system – The layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior such that each component cannot “see” beyond the immediate layer with which they are interacting.
+
+6. Code on demand (optional) – REST allows client functionality to be extended by downloading and executing code in the form of applets or scripts. This simplifies clients by reducing the number of features required to be pre-implemented.
