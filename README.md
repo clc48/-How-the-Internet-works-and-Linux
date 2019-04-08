@@ -133,3 +133,9 @@ https://youtu.be/hExRDVZHhig
 5. Layered system – The layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior such that each component cannot “see” beyond the immediate layer with which they are interacting.
 
 6. Code on demand (optional) – REST allows client functionality to be extended by downloading and executing code in the form of applets or scripts. This simplifies clients by reducing the number of features required to be pre-implemented.
+
+
+THIS IS THE LINK TO THE PDF OF FIELDING'S DISSERTATION. IT IS QUITE COMPLEX BUT WORTH TAKING A LOOK AT.
+https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
+
+
