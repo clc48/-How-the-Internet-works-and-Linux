@@ -1,7 +1,5 @@
 Linux is an operating system's kernel.
 
-Ubuntu Link: https://www.ubuntu.com/
-
 Linux allows for the use of console commands to complete task
 
 ##Some Console commands are:
@@ -29,3 +27,9 @@ Linux allows for the use of console commands to complete task
 - chown change file owner and group
 
 - chmod Change access permissions, change mode.
+
+- FTP The File Transfer Protocol - standard network protocol used for the transfer of computer files between a client and server on a computer network
+
+- SFTP, which stands for SSH File Transfer Protocol, or Secure File Transfer Protocol, is a separate protocol packaged with SSH that works in a similar way over a secure connection
+
+- Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network.

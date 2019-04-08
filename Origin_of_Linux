@@ -1,6 +1,20 @@
-Linux is a freely distributable version of Unix, originally developed by Linus Torvalds,
- who began work on Linux in 1991 as a student at the University of Helsinki in Finland.
 
- Inspired by Andrew Tanenbaum’s Minix operating system (another free Unix for PCs—albeit
- a very simple one), Linux began as a class project in which Linus wanted to build a simple
- Unix system that could run on a 386-based PC.
+Linux is a freely distributable version of Unix, originally developed by Linus Torvalds,
+who began work on Linux in 1991 as a student at the University of Helsinki in Finland.
+Inspired by Andrew Tanenbaum’s Minix operating system Linux began as a class project in
+which Linus wanted to build a simple Unix system that could run on a 386-based PC.
+It was  developed as a multitasking system for minicomputers and mainframes in the
+mid-1970s. It has since grown to become one of the most widely used operating systems anywhere
+
+The Unix operating system found its beginnings in MULTICS, which stands for Multiplexed Operating and
+Computing System. The MULTICS project began in the mid 1960s as a joint effort by General Electric,
+Massachusetts Institute for Technology and Bell Laboratories. In 1969 Bell Laboratories pulled out of the project.
+One of Bell Laboratories people involved in the project was Ken Thompson. He liked the potential MULTICS had,
+but felt it was too complex and that the same thing could be done in simpler way. In 1969 he wrote the first
+version of Unix, called UNICS. UNICS stood for Uniplexed Operating and Computing System. Although the operating
+system has changed, the name stuck and was eventually shortened to Unix.
+
+Ken Thompson teamed up with Dennis Ritchie, who wrote the first C compiler. In 1973 they rewrote the Unix
+kernel in C. The following year a version of Unix known as the Fifth Edition was first licensed to universities.
+The Seventh Edition, released in 1978, served as a dividing point for two divergent lines of Unix development.
+These two branches are known as SVR4 (System V) and BSD.
