@@ -42,3 +42,24 @@ and types a URL into the address bar. For example, perhaps the user types in htt
 
 6.The browser displays the requested page on the computer screen.
 
+
+#DOMAIN NAMES
+A domain name is simply the name assigned to an IP address. As we mentioned before, if the IP address is the phone number in a phonebook, the DNS is the phonebook itself therefore the tool we use to find it, and the Domain name would be the equivalent to the 
+contact's name.
+ 
+A domain name takes the form of two main elements. For example, the domain name Github.com consists of the website’s name (Github) and the domain name extension (.com). 
+When a company (or a person) purchases a domain name, they’re able to specify which server that the domain name points to.
+Every domain name has a suffix that indicates which top level domain (TLD) it belongs to. There are only a limited number of such domains. For example:
+
+gov - Government agencies
+
+edu - Educational institutions
+
+org - Organizations (nonprofit)
+
+com - commercial business
+
+net - Network organizations
+
+Websites like godaddy.com allow the public to purchase Domain names as long as they are available. So if you are thinking of starting your own business or a blog you could have your own Domain name!
+<img src="https://1.bp.blogspot.com/-_zldwgR2ebo/VL9vljXkevI/AAAAAAAAhhM/nJ-6C3RpEQU/s728/godaddy-domain-hosting-hack.png">
