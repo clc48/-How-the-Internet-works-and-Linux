@@ -43,13 +43,24 @@ and types a URL into the address bar. For example, perhaps the user types in htt
 6.The browser displays the requested page on the computer screen.
 
 
-#DOMAIN NAMES
+#DOMAIN NAMES AND TLD'S 
 A domain name is simply the name assigned to an IP address. As we mentioned before, if the IP address is the phone number in a phonebook, the DNS is the phonebook itself therefore the tool we use to find it, and the Domain name would be the equivalent to the 
 contact's name.
  
 A domain name takes the form of two main elements. For example, the domain name Github.com consists of the website’s name (Github) and the domain name extension (.com). 
 When a company (or a person) purchases a domain name, they’re able to specify which server that the domain name points to.
-Every domain name has a suffix that indicates which top level domain (TLD) it belongs to. There are only a limited number of such domains. For example:
+Every domain name has a suffix that indicates which top level domain (TLD) it belongs to.
+Top-level domains serve as an instant way to understand what a website is about or where it's based.
+
+For example, seeing a .edu address, like in www.njit.edu will immediately inform you that the material on the website is centered around education. 
+
+There's also a side effect TLDs, which is that because there are several options, multiple websites can use the same name but be totally different sites or companies. Apart from the last bit where the TLD sits, the URLs might be identical.
+
+For example, github.com is a website but github.org is another with the same name but different TLD, so they're actually completely different websites. 
+
+It's for this reason that some companies will register multiple TLDs so that anyone going to the other, non-primary URLs, will still land on the company's website. For example, google.com is how you reach Google's website, but you can also get there through google.net. However, google.org is a totally different website.
+
+There are only a limited number of such domains. Here are a few for example:
 
 gov - Government agencies
 
@@ -61,5 +72,8 @@ com - commercial business
 
 net - Network organizations
 
-Websites like godaddy.com allow the public to purchase Domain names as long as they are available. So if you are thinking of starting your own business or a blog you could have your own Domain name!
+ca- Canada
+
+Websites like godaddy.com allow the public to purchase Domain names as long as they are available. So if you are thinking of starting your own business or a blog you could have your own Domain name! (This is not an ad for godaddy i swear)
 <img src="https://1.bp.blogspot.com/-_zldwgR2ebo/VL9vljXkevI/AAAAAAAAhhM/nJ-6C3RpEQU/s728/godaddy-domain-hosting-hack.png">
+
