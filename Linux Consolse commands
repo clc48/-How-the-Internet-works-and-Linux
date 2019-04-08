@@ -1,0 +1,31 @@
+Linux is an operating system's kernel.
+
+Ubuntu Link: https://www.ubuntu.com/
+
+Linux allows for the use of console commands to complete task
+
+##Some Console commands are:
+
+- GET: Requests a resource
+
+- POST: Pushes information to the server
+
+- PUT: Uploads a resource
+
+- PATCH: Updates a resource
+
+- DELETE: Deletes a resource
+
+- rm {file} deletes {file}
+
+- ls lists files in the current directory
+
+- cp {file} {new file} copies {file} to {new file}
+
+- mv {file} {new file} renames {file} to {new file}
+
+- cd {directory} changes the current directory to {directory} (using .. moves up the directory)
+
+- chown change file owner and group
+
+- chmod Change access permissions, change mode.
