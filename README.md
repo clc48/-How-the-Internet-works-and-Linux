@@ -14,4 +14,8 @@ nnn.nnn.nnn.nnn where nnn must be a number from 0 - 255.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ipv4_address.svg/300px-Ipv4_address.svg.png">
 
+
+If you still have questions h  ere is a short but precise clip on what an Ip address is:
+https://youtu.be/7_-qWlvQQtY
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7_-qWlvQQtY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
