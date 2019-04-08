@@ -77,3 +77,14 @@ ca- Canada
 Websites like godaddy.com allow the public to purchase Domain names as long as they are available. So if you are thinking of starting your own business or a blog you could have your own Domain name! (This is not an ad for godaddy i swear)
 <img src="https://1.bp.blogspot.com/-_zldwgR2ebo/VL9vljXkevI/AAAAAAAAhhM/nJ-6C3RpEQU/s728/godaddy-domain-hosting-hack.png">
 
+
+#How to read a web address ie: https://www.youtube.com
+1."**protocol://**" - This defines what Internet protocol is required to reach the online resource.
+(In our example **https://**)
+
+2."**computer.domain.name**" - The domain name of the server where the information is located (can also be the server's IP number)
+(In our example **www.youtube**)
+
+3." **TLD**" - The very last section of an internet domain name, located after the last dot, to help form a fully qualified domain name.
+(In our example **.com**)
+
